@@ -15,7 +15,7 @@
 
 
 <div class="container">
-    <a class="btn btn-primary mt-5 mb-5" href="{{route('Blood1.index')}}">Back</a>
+    <a class="btn btn-success mt-5 mb-5" href="{{route('Blood1.index')}}">view</a>
 	
      <form action="{{route('Blood1.store')}}" method="POST"  enctype="multipart/form-data">
       @csrf

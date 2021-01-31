@@ -33,7 +33,7 @@
 
 </head>
 <body class="hero-image">
-	<h1 class="text-center mt-5 liza" > <br><br><b>Welcome to Blood Bank</h1>
+	<h1 class="text-center mt-5 liza" > <br><br><b><b>Welcome to Blood Bank</h1>
 		<div class="row mt-5">
 			<div class="col-4">
 				
